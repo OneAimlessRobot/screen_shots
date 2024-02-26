@@ -1,6 +1,2 @@
 #!/bin/bash
-git add . && git commit -m '' && git push origin master
-#!/bin/bash
-git add . && git commit -m '' && git push origin master
-#!/bin/bash
-git add . && git commit -m 'ğq6pbØ±‡¹·' && git push origin master
+git add . && git commit -m '$(.randStringGenerator/randStringGenerator/randStringGenerator)' && git push origin master
